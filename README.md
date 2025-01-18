@@ -8,6 +8,7 @@
 ## Tech stuck
 ### フロント
 - Vue.js
+- TypeScript 
 
 ### バック
 - 特になし(将来的にはRDSを組んでみたいです)
