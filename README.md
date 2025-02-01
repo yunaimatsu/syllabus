@@ -1,50 +1,5 @@
-# syllabus
+# Vue 3 + Vite
 
-## Requirements
-### 1. ダッシュボード
-- 知識のインプット
-- 問題の投稿
-    - 問題の誤り等へのFB
-- 知識のアウトプット(正誤判定)
-### 2. 問題投稿画面
-#### 一問一答
-- 問題文と解答を入力する
-#### コード
-- インプットとアウトプットのペアを作成
-### 3. 問題演習画面
-- 問題文
-- FB(誤り指摘)入力ボタン
-- 解答入力
-- 飛ばした問題を後からやる
-- 飛ばす
-- 解答をやめる
-- 最初からやり直す
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-※プロダクトに関する科目は対象外。
-
-## Tech Stuck
-### フロント
-- Vue.js
-- TypeScript 
-
-### バック
-- Goサーバを立てる
-- 皆のポストのデータ
-- ユーザ
-- InputとOutputの正誤表のデータ
-
-### 認証
-- OAuth
-
-### ホスティング
-- Vercel
-
-### CI/CD
-- CircleCI
-
-## Schedule 
-> 「個人アジャイル開発」のようなものをしようと考えています。
-
-- `App.vue`やレイアウトだけ作って(コンテンツなしで)デプロイ(1/26✘→1/31)
-- フロント/MBの初級のインプット資料を作成・デプロイ(1/31✘→2/8)
-- AtCoderやLeetCodeがどのようにACを出しているのか調べ、実装(2/28)
+Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
